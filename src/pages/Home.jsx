@@ -31,8 +31,8 @@ export default function Home() {
           </div>
           <div className="relative">
             <img
-              src="https://images.unsplash.com/photo-1490114538077-0a7f8cb49891?w=1000&q=80"
-              alt="Two models wearing SHOP.CO outfits"
+              src="https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=1000&q=80"
+              alt="Man wearing a denim jacket and watch"
               className="w-full h-full object-cover rounded-b-none lg:aspect-[5/4]"
             />
           </div>
